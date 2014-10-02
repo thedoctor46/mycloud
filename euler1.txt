@@ -1,0 +1,2 @@
+so i have staretd a while loop, that while the number is under 1000,
+the while loop is active, im then checking if the numer divided by 3 or 5 using the moduls function to see if theres a remainder, then sum which is 0 is added to the modulas and num is incemented, when its not true it breaks out and prints the result
